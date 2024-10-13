@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726594221 source:d:\c\new folder\calculate bmi\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726592469 source:d:\c\dsa\check weekends\main.c
+	<stdio.h>
+	<stdlib.h>
+

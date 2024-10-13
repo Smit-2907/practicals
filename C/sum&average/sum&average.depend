@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725555421 source:d:\c\sum&average\main.c
+	<stdio.h>
+	<stdlib.h>
+
